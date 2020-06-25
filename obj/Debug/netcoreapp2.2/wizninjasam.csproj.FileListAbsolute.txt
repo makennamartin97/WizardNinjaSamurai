@@ -1,0 +1,11 @@
+/Users/makennamartin97/Documents/coding_dojo/csharpstack/wizninjasam/obj/Debug/netcoreapp2.2/wizninjasam.csprojAssemblyReference.cache
+/Users/makennamartin97/Documents/coding_dojo/csharpstack/wizninjasam/obj/Debug/netcoreapp2.2/wizninjasam.csproj.CoreCompileInputs.cache
+/Users/makennamartin97/Documents/coding_dojo/csharpstack/wizninjasam/obj/Debug/netcoreapp2.2/wizninjasam.AssemblyInfoInputs.cache
+/Users/makennamartin97/Documents/coding_dojo/csharpstack/wizninjasam/obj/Debug/netcoreapp2.2/wizninjasam.AssemblyInfo.cs
+/Users/makennamartin97/Documents/coding_dojo/csharpstack/wizninjasam/bin/Debug/netcoreapp2.2/wizninjasam.deps.json
+/Users/makennamartin97/Documents/coding_dojo/csharpstack/wizninjasam/bin/Debug/netcoreapp2.2/wizninjasam.runtimeconfig.json
+/Users/makennamartin97/Documents/coding_dojo/csharpstack/wizninjasam/bin/Debug/netcoreapp2.2/wizninjasam.runtimeconfig.dev.json
+/Users/makennamartin97/Documents/coding_dojo/csharpstack/wizninjasam/bin/Debug/netcoreapp2.2/wizninjasam.dll
+/Users/makennamartin97/Documents/coding_dojo/csharpstack/wizninjasam/bin/Debug/netcoreapp2.2/wizninjasam.pdb
+/Users/makennamartin97/Documents/coding_dojo/csharpstack/wizninjasam/obj/Debug/netcoreapp2.2/wizninjasam.dll
+/Users/makennamartin97/Documents/coding_dojo/csharpstack/wizninjasam/obj/Debug/netcoreapp2.2/wizninjasam.pdb
